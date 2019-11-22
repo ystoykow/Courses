@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Line Numbers", "02. Line Numbers\02. Line Numbers.csproj", "{4C9C6B15-B736-4661-ABA5-9E61D69F3CED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{9BF44D94-2B62-4CC2-ABAB-F4C140CC2F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Merge Files", "04. Merge Files\04. Merge Files.csproj", "{8BE05622-B803-424B-A4AA-FFC55FCDD6AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Slice File", "05. Slice File\05. Slice File.csproj", "{EE307BD2-C04E-4401-A106-293A1201BD45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Folder Size", "06. Folder Size\06. Folder Size.csproj", "{5939735D-9596-47CF-AFC2-117A3043253C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Odd Lines", "01. Odd Lines\01. Odd Lines.csproj", "{5F279A91-A0A7-4351-8884-D81C618A800F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C9C6B15-B736-4661-ABA5-9E61D69F3CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9C6B15-B736-4661-ABA5-9E61D69F3CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9C6B15-B736-4661-ABA5-9E61D69F3CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9C6B15-B736-4661-ABA5-9E61D69F3CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF44D94-2B62-4CC2-ABAB-F4C140CC2F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF44D94-2B62-4CC2-ABAB-F4C140CC2F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF44D94-2B62-4CC2-ABAB-F4C140CC2F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF44D94-2B62-4CC2-ABAB-F4C140CC2F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE05622-B803-424B-A4AA-FFC55FCDD6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE05622-B803-424B-A4AA-FFC55FCDD6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE05622-B803-424B-A4AA-FFC55FCDD6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE05622-B803-424B-A4AA-FFC55FCDD6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE307BD2-C04E-4401-A106-293A1201BD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE307BD2-C04E-4401-A106-293A1201BD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE307BD2-C04E-4401-A106-293A1201BD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE307BD2-C04E-4401-A106-293A1201BD45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5939735D-9596-47CF-AFC2-117A3043253C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5939735D-9596-47CF-AFC2-117A3043253C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5939735D-9596-47CF-AFC2-117A3043253C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5939735D-9596-47CF-AFC2-117A3043253C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F279A91-A0A7-4351-8884-D81C618A800F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F279A91-A0A7-4351-8884-D81C618A800F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F279A91-A0A7-4351-8884-D81C618A800F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F279A91-A0A7-4351-8884-D81C618A800F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B769D0AB-13F9-4773-9787-3071084E8458}
+	EndGlobalSection
+EndGlobal

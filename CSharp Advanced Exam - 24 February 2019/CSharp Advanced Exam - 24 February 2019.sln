@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Club Party", "01. Club Party\01. Club Party.csproj", "{563B3507-2F8A-4404-ABCB-03D8A400DEFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Tron Racers", "02. Tron Racers\02. Tron Racers.csproj", "{C68FD3F9-0C67-4B37-8A3D-8F824669C0E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{563B3507-2F8A-4404-ABCB-03D8A400DEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563B3507-2F8A-4404-ABCB-03D8A400DEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563B3507-2F8A-4404-ABCB-03D8A400DEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563B3507-2F8A-4404-ABCB-03D8A400DEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68FD3F9-0C67-4B37-8A3D-8F824669C0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68FD3F9-0C67-4B37-8A3D-8F824669C0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68FD3F9-0C67-4B37-8A3D-8F824669C0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68FD3F9-0C67-4B37-8A3D-8F824669C0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {000E67CA-6B7E-4599-BAA2-D99596312473}
+	EndGlobalSection
+EndGlobal
